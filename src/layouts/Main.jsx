@@ -10,7 +10,7 @@ import wave from '../assets/wave.svg';
 import { Outlet, useLoaderData } from 'react-router-dom';
 
 // helper functions
-import { fetchData } from '../helper'
+import { fetchData } from '../helpers'
 
 // loader function
 export function mainLoader(){
